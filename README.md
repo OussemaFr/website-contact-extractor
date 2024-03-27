@@ -1,7 +1,12 @@
-Contact Details Scraper - (Discord server: https://discord.gg/mhqB9Bt2)
+# Contact Details Scraper - (Discord server: https://discord.gg/mhqB9Bt2)
 
-**Stop wasting time, Extract website info now** ‼️
-https://sitextractor.com
+## Stop wasting time, Extract website info now‼️
+
+Website: https://sitextractor.com
+
+Rapidapi: https://rapidapi.com/ousema.frikha/api/contact-details-scraper
+
+-----------
 
 
 **Introduction:**
