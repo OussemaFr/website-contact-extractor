@@ -1,3 +1,9 @@
+Contact Details Scraper - (Discord server: https://discord.gg/mhqB9Bt2)
+
+**Stop wasting time, Extract website info now** ‼️
+https://sitextractor.com
+
+
 **Introduction:**
 
 Looking to extract contact information from websites? Our Contact Details Scraper can help! This powerful tool crawls websites and extracts email addresses, phone numbers, social media profiles, and more. Read on to learn how it works and how you can benefit from using it.
